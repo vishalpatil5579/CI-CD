@@ -4,7 +4,7 @@ pipeline {
     environment {
         IMAGE_NAME = "my-app"
         IMAGE_TAG = "latest"
-        REGISTRY = "VISHAL2646"
+        REGISTRY = "patilvishal5579@gmail.com"
     }
 
     stages {
